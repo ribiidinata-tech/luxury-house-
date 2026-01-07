@@ -70,10 +70,9 @@ Luxury Estate | Rumah Mewah
 <p>5 Kamar Tidur • Kolam Renang • Smart Home</p>
 
 <h3> Lokasi </h3>
-<iframe>
-<src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed">
-</iframe>
+<iframe></iframe><src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
 
+ </h3>
 <a class="whatsapp"
 href="https://wa.me/62895323721707?text=Saya%20tertarik%20Villa%20Grand%20BSD">
 💬 Hubungi via WhatsApp:62895323721707
