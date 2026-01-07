@@ -69,8 +69,8 @@ Luxury Estate | Rumah Mewah
 <p class="price">Rp 8.500.000.000</p>
 <p>5 Kamar Tidur • Kolam Renang • Smart Home</p>
 
-<h3>Lokasi</h3>
-<iframe
+<h3> Lokasi </h3>
+<iframe>
 <src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed">
 </iframe>
 
