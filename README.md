@@ -1,10 +1,11 @@
 # luxury-house-
 Website penjualan perumahan!
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
-<title> Luxury Estate | Rumah Mewah </title>
+Luxury Estate | Rumah Mewah 
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
