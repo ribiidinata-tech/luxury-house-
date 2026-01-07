@@ -80,13 +80,6 @@ href="https://wa.me/62895323721707?text=Saya%20tertarik%20Villa%20Grand%20BSD">
 </a>
 
 
-.whatsapp {
-  display: inline-block;
-  background: #25D366;
-  color: white;
-  padding: 15px;
-  margin-top: 20px;
-  text-decoration: none;
-}
+
 
 
