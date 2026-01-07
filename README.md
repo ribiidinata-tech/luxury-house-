@@ -43,7 +43,7 @@ Luxury Estate | Rumah Mewah
   </div>
 
   <div class="property-card" data-price="6750000000">
-    <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994">
+    <img src="https://www.emporioarchitect.com/desain-rumah/desain-rumah-modern-3-lantai-3231222">
     <h3>Modern House Sentul</h3>
     <p class="price">Rp 6,75 M</p>
     <a href="property-3.html" class="btn-small">Detail</a>
