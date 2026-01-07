@@ -1,0 +1,9 @@
+luxury-real-estate/
+├── index.html
+├── property-1.html
+├── property-2.html
+├── property-3.html
+├── assets/
+│   ├── css/style.css
+│   └── js/main.js
+└── README.md
