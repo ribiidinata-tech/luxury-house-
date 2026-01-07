@@ -76,75 +76,9 @@ Luxury Estate | Rumah Mewah
 
 <a class="whatsapp"
 href="https://wa.me/62895323721707?text=Saya%20tertarik%20Villa%20Grand%20BSD">
-💬 Hubungi via WhatsApp
+💬 Hubungi via WhatsApp:62895323721707
 </a>
 
-</body>
-</html>
-body {
-  font-family: Poppins, sans-serif;
-  margin: 0;
-  background: #f4f4f4;
-}
-
-.logo {
-  padding: 20px;
-  background: #0f172a;
-  color: gold;
-}
-
-.hero {
-  height: 60vh;
-  background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
-  url('https://images.unsplash.com/photo-1502673530728-f79b4cab31b1') center/cover;
-  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.properties {
-  display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
-  gap: 20px;
-  padding: 40px;
-}
-
-.property-card {
-  background: white;
-  padding: 15px;
-  box-shadow: 0 10px 20px rgba(0,0,0,.1);
-}
-
-.property-card img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-}
-
-.price {
-  color: gold;
-  font-weight: bold;
-}
-
-.btn-small {
-  background: #0f172a;
-  color: white;
-  padding: 8px 15px;
-  text-decoration: none;
-}
-
-.detail-img {
-  width: 100%;
-  max-height: 400px;
-  object-fit: cover;
-}
-
-iframe {
-  width: 100%;
-  height: 300px;
-  border: 0;
-}
 
 .whatsapp {
   display: inline-block;
