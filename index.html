@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Luxury Estate | Rumah Mewah</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="navbar">
+  <h1 class="logo">LuxuryEstate</h1>
+</header>
+
+<section class="hero">
+  <h2>Hunian Mewah & Investasi Premium</h2>
+</section>
+
+<section class="filter">
+  <label>Filter Harga:</label>
+  <select id="priceFilter" onchange="filterPrice()">
+    <option value="all">Semua</option>
+    <option value="under10">Di bawah 10 M</option>
+    <option value="above10">Di atas 10 M</option>
+  </select>
+</section>
+
+<section class="properties" id="properties">
+
+  <div class="property-card" data-price="8500000000">
+    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
+    <h3>Villa Grand BSD</h3>
+    <p class="price">Rp 8,5 M</p>
+    <a href="property-1.html" class="btn-small">Detail</a>
+  </div>
+
+  <div class="property-card" data-price="15200000000">
+    <img src="https://images.unsplash.com/photo-1570129477492-45c003edd2be">
+    <h3>Pondok Indah Residence</h3>
+    <p class="price">Rp 15,2 M</p>
+    <a href="property-2.html" class="btn-small">Detail</a>
+  </div>
+
+  <div class="property-card" data-price="6750000000">
+    <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994">
+    <h3>Modern House Sentul</h3>
+    <p class="price">Rp 6,75 M</p>
+    <a href="property-3.html" class="btn-small">Detail</a>
+  </div>
+
+</section>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
