@@ -28,7 +28,7 @@ Website penjualan perumahan!
 
 <section class="properties" id="properties">
 
-  <div class="property-card" data-price="8500000000">
+  <div class="property-card" data-price="1500000000">
     <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
     <h3>Villa Grand BSD</h3>
     <p class="price">Rp 8,5 M</p>
@@ -54,3 +54,31 @@ Website penjualan perumahan!
 <script src="assets/js/main.js"></script>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Villa Grand BSD</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<h1>Villa Grand BSD</h1>
+<img class="detail-img" src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
+
+<p class="price">Rp 1.500.000.000</p>
+<p>5 Kamar Tidur • Kolam Renang • Smart Home</p>
+
+<h3>Lokasi</h3>
+<iframe
+src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed">
+</iframe>
+
+<a class="whatsapp"
+href="https://wa.me/62895323721707?text=Saya%20tertarik%20Villa%20Grand%20BSD">
+💬 Hubungi via WhatsApp
+</a>
+
+</body>
+</html>
+
