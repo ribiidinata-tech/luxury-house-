@@ -71,7 +71,7 @@ Luxury Estate | Rumah Mewah
 
 <h3>Lokasi</h3>
 <iframe
-src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed">
+<src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed">
 </iframe>
 
 <a class="whatsapp"
