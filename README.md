@@ -68,10 +68,6 @@ Luxury Estate | Rumah Mewah
 
 <p class="price">Rp 8.500.000.000</p>
 <p>5 Kamar Tidur • Kolam Renang • Smart Home</p>
-
-<h3> Lokasi 
-<src="https://www.google.com/maps?q=BSD+City&t=&z=13&ie=UTF8&iwloc=&output=embed">
- </h3>
   
 <a class="whatsapp"
 href="https://wa.me/62895323721707?text=Saya%20tertarik%20Villa%20Grand%20BSD">
